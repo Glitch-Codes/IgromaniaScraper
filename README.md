@@ -2,4 +2,4 @@ Scraper built for pulling article information off the parent website: https://ww
 
 Made modular to pass in different scritps to run while the main server file is constantly running.
 
-@Ben Pike 200352022
+@Glitch-Codes 2018
